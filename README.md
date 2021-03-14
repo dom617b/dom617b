@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dom617b
-- 🌱 I’m currently learning PowerShell
+- 🌱 I’m currently learning Azure fundamentals and PowerShell
 - 📫 https://dom617b.thenibble.org
 
 <!---
